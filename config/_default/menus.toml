@@ -16,6 +16,18 @@
   identifier = "governance"
   url = "/docs/governance/"
 
+  [[docs]]
+  name = "Roadmap"
+  weight = 30
+  identifier = "roadmap"
+  url = "/docs/roadmap/"
+
+   [[docs]]
+  name = "Tokenomics"
+  weight = 30
+  identifier = "tokenomics"
+  url = "/docs/tokenomics/"
+
 [[docs]]
   name = "Help"
   weight = 60
