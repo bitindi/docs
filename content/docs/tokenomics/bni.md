@@ -29,14 +29,14 @@ toc: true
 
 ## Token Allocation ![Bitindi!](https://raw.githubusercontent.com/bitindi/bitindi/main/assets/images/bni-token.png "Bitindi Chain")
 
-| Segment    | Percentage|  Total Tokens |  Vesting Schedule | TGE | TGE Date |
+| Segment    | % |  Total  |  Vesting  | TGE | Date |
 | ----------- | ----------- | ----------- | ----------- |  ----------- |  ----------- |
 | Fairlaunch/Liquidity  | 49% |  24,500,000 | Public Fairlaunch | |  | 
-| Staking Pool  | 20% |  10,000,000 | 5% vested monthly | 5% | 2022.11.15 22:21 UTC|
-| Exchange Listing | 10% |  5,000,000 | 5% vested monthly | 5% | 2022.11.15 22:21 UTC |
-| Development | 5% |  2,500,000 | 1% vested monthly | 1% | 2022.11.15 22:21 UTC |
-| Marketing | 5% |  2,500,000 | 1% vested monthly | 1% | 2022.11.15 22:21 UTC |
-| Partnerships | 5% |  2,500,000 | 1% vested monthly | 1% | 2022.12.01 22:21 UTC |
-| Team | 5% |  2,500,000 | 1% vested monthly | 1% | 2022.12.01 22:21 UTC |
-| Giveaway | 1% |  500,000 | 10% vested monthly | 10% | 2022.11.15 22:21 UTC |
+| Staking Pool  | 20% |  10,000,000 | 5% vested monthly | 5% | 2022.11.15|
+| Exchange Listing | 10% |  5,000,000 | 5% vested monthly | 5% | 2022.11.15|
+| Development | 5% |  2,500,000 | 1% vested monthly | 1% | 2022.11.15|
+| Marketing | 5% |  2,500,000 | 1% vested monthly | 1% | 2022.11.15  |
+| Partnerships | 5% |  2,500,000 | 1% vested monthly | 1% | 2022.12.01|
+| Team | 5% |  2,500,000 | 1% vested monthly | 1% | 2022.12.01 |
+| Giveaway | 1% |  500,000 | 10% vested monthly | 10% | 2022.11.15 |
 
