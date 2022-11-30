@@ -18,8 +18,8 @@ toc: true
 
 - [ ] Bitindi's IOS Wallet App Launch
 - [x] Mainnet Blockchain Launch
-- [x] Bitindi Mainnet RPC Launch
-- [x] Mainnet Blockchain Scan Launch
+- [x] Bitindi Mainnet [RPC](https://docs.bitindi.org/docs/developers/networks/) Launch
+- [x] Mainnet Blockchain [Scan](https://bitindiscan.com/) Launch
 - [ ] Token Launchpad
 - [ ] Validators appointment complete
 - [ ] Liquidity Locker Launch
