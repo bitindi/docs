@@ -20,5 +20,4 @@ toc: true
 - [ ] Expand performance while retaining the decentralized advantages of distributed protocols.
 - [ ] Cross-chain interoperability protocol
 - [ ] Cross-chain interoperability integration
-- [x] Cross Blockchain Bridge
 - [ ] Cross Blockchain Index
