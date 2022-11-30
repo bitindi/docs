@@ -1,0 +1,47 @@
+# Meta Data for SEO
+
+## Homepage
+title = "Bitindi"
+titleSeparator = "-"
+titleAddition = "Bitindi Chain Documentation"
+description = "Bitindi Chain is an EVM compatible chain for DeFi uses Proof of Stake consensus."
+
+## Open Graph + Twitter Cards
+images = ["bni.png"]
+twitterSite = "Bitindichain"
+twitterCreator = "Bitindichain"
+facebookAuthor = ""
+facebookPublisher = ""
+ogLocale = "en_US"
+
+## JSON-LD
+schemaType = "Organization"
+schemaLogo = "bni.png"
+schemaTwitter = "https://twitter.com/bitindichain"
+schemaLinkedIn = ""
+schemaGitHub = "https://github.com/bitindi"
+schemaSection = "blog"
+
+## Sitelinks Search Box
+siteLinksSearchBox = false
+
+## Chrome Browser
+themeColor = "#fff"
+
+# Images
+quality = 85
+bgColor = "#fff"
+landscapePhotoWidths = [900, 800, 700, 600, 500]
+portraitPhotoWidths = [800, 700, 600, 500]
+lqipWidth = "20x"
+
+# Footer
+footer = "<a href=\"https://bitindiscan.com\">Bitindi Scan</a> - <a href=\"https://faucet.bitindi.org/\">Faucet</a> - <a href=\"https://testnet.bitindiscan.com/\">Testnet</a> "
+
+# Alert
+alert = false
+alertText = "Like Bitindi? <a class=\"alert-link\" href=\"https://github.com/bitindi\">Star on GitHub</a>. Thanks!</a>"
+
+# Edit Page
+docsRepo = "https://github.com/bitindi"
+editPage = false
