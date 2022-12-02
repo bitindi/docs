@@ -47,19 +47,19 @@ toc: true
 Transaction fees Being the native currency on the Bitindi Network blockchain, BNI is required to pay fees to have transactions approved on it.
 Validation Token holders can stake BNI to become a validator. The minimal staking requirement is 100K. The network is just started, currently there are not many validators.
 
-Voting Validators vote on protocol changes with their staked BNI, as well as with the tokens delegated to them by stakers. Which means validators with higher amounts of BNI staked can have a bigger vote on network upgrades and governance changes.
+### Voting 
+Validators vote on protocol changes with their staked BNI, as well as with the tokens delegated to them by stakers. Which means validators with higher amounts of BNI staked can have a bigger vote on network upgrades and governance changes.
 
-Staking (for delegators) Any BNI holder can choose one or more validators to delegate any amount of BNI they wish. They receive a share of the Bitindi block rewards proportionate to the share of their stake in the total stake, minus the 50% fee paid to the validator(s) 10% to The Developer(s) and 10% to be Burn.
+### Staking (for delegators) 
+Any BNI holder can choose one or more validators to delegate any amount of BNI they wish. They receive a share of the Bitindi block rewards proportionate to the share of their stake in the total stake, minus the 50% fee paid to the validator(s) 10% to The Developer(s) and 10% to be Burn.
 
-Payments As BNI is the native currency on Bitindi Network, sending it does not require interactions with smart contracts. Thus, BNI transfers are potentially faster and less costly in terms of transaction fees.
+### Payments 
+As BNI is the native currency on Bitindi Network, sending it does not require interactions with smart contracts. Thus, BNI transfers are potentially faster and less costly in terms of transaction fees.
 
 IMPORTANT: Merely possessing any amount of BNI tokens does not endow holders with any rights to participate in the governance of the Bitindi Network platform or any revenue streams related to its real-world performance. 
 
-## Obtaining BNI
-
 ### Where to Buy
-
-BNI will be available for purchase on a number of centralized (CEX) and decentralized DEX exchanges.
+BNI will be available for purchase on a number of centralized (CEX) and decentralized DEX exchanges in future.
 
 DEXes: PancakeSwap (Binance Smart Chain), Bitindi DEX (Bitindi Chain).
 
