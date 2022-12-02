@@ -49,7 +49,7 @@ Validation Token holders can stake BNI to become a validator. The minimal stakin
 
 Voting Validators vote on protocol changes with their staked BNI, as well as with the tokens delegated to them by stakers. Which means validators with higher amounts of BNI staked can have a bigger vote on network upgrades and governance changes.
 
-Staking (for delegators) Any BNI holder can choose one or more validators to delegate any amount of BNI they wish. They receive a share of the Bitindi block rewards proportionate to the share of their stake in the total stake, minus the 50% fee paid to the validator(s) 10% to The Devaopers 10% for Burn.
+Staking (for delegators) Any BNI holder can choose one or more validators to delegate any amount of BNI they wish. They receive a share of the Bitindi block rewards proportionate to the share of their stake in the total stake, minus the 50% fee paid to the validator(s) 10% to The Developer(s) and 10% to be Burn.
 
 Payments As BNI is the native currency on Bitindi Network, sending it does not require interactions with smart contracts. Thus, BNI transfers are potentially faster and less costly in terms of transaction fees.
 
