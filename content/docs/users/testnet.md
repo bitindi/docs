@@ -31,3 +31,7 @@ wss://ws-testnet.bitindi.org
 ```
 https://testnet.bitindiscan.com
 ```
+## faucet
+```
+https://faucet.bitindi.org
+```
