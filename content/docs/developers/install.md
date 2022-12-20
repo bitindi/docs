@@ -14,9 +14,9 @@ toc: true
 ---
 
 ### Download
-Download source code via [git](https://github.com/Bitindi/bitindi-Core.git)
+Download source code via [git](https://github.com/Bitindi/blockchain-core.git)
 
-`git clone https://github.com/Bitindi/bitindi-Core.git`
+`git clone https://github.com/Bitindi/blockchain-core.git`
 
  `Install Golang Reference`: [Go Download and install](https://go.dev/doc/install)
 
