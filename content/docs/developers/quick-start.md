@@ -81,7 +81,7 @@ Deploying on testnet is similar to development, however there are 2 things we ne
 
 2.) Create an [account](/docs/developers/accounts/) and obtain testnet BNI tokens from the faucet.
 
-To get 1000 BNI testnet tokens simply type visit faucet [Faucet](https://faucet.bitindiorg).
+To get 1000 BNI testnet tokens simply type visit faucet [Faucet](https://faucet.bitindi.org).
 
 ### Deploy on mainnet
 Deploying on mainnet is similar to development, however there are 2 things we need.
