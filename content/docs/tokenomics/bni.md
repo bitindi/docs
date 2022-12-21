@@ -41,7 +41,7 @@ Fair launch of 49% $BNI was conducted on 2022.10.15.
 
 
 ## Exchange Listing/Security
-Utilised for Tier 1 & 2 exchanges listing, the primary listing documentation is processed, only the security deposit is pending for the final listing of $BNI.
+Utilised for Tier 1 & 2 exchange listing, the primary listing documentation is processed, only the security deposit is pending for the final listing of $BNI.
 
 ## Development
  Utilised for development purposes.
