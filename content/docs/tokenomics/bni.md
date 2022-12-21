@@ -33,11 +33,8 @@ toc: true
 | ----------- | ----------- | ----------- | ----------- | 
 | Fairlaunch/Liquidity  |  49% |   24,500,000 |  Public Fairlaunch | 
 | Exchange Listing/Security |  30% |   15,000,000 |  5% vested monthly | 
-| Development |  5% |   2,500,000 |  1% vested monthly |
-| Marketing |  5% |   2,500,000 |  1% vested monthly |
-| Partnerships |  5% |   2,500,000 |  1% vested monthly |
-| Team |  5% |   2,500,000 |  1% vested monthly |
-| Giveaway |  1% |   500,000 |  10% vested monthly |
+| Development |  10% |   5,000,000 |  1% vested monthly |
+| Marketing |  11% |   5,500,000 |  1% vested monthly |
 
 
 ## The New BNI token is the native currency of the Bitindi Network blockchain and platform, just like ETH on Ethereum and BNB on Binance. 
