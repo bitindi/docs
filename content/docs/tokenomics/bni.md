@@ -36,6 +36,19 @@ toc: true
 | Development |  10% |   5,000,000 |  1% vested monthly |
 | Marketing |  11% |   5,500,000 |  1% vested monthly |
 
+## Fair Launch/Liquidity
+Fair launch of 49% $BNI was conducted on 2022.10.15.
+
+
+## Exchange Listing/Security
+Utilised for Tier 1 & 2 exchanges listing, the primary listing documentation is processed, only the security deposit is pending for the final listing of $BNI.
+
+## Development
+ Utilised for development purposes.
+ 
+ ## Marketing
+ Utilised for marketing purposes.
+
 
 ## The New BNI token is the native currency of the Bitindi Network blockchain and platform, just like ETH on Ethereum and BNB on Binance. 
 
@@ -57,7 +70,10 @@ IMPORTANT: Merely possessing any amount of BNI tokens does not endow holders wit
 ### Where to Buy
 BNI will be available for purchase on a number of centralized (CEX) and decentralized DEX exchanges in future.
 
-DEXes: PancakeSwap (Binance Smart Chain), Bitindi DEX (Bitindi Chain).
+### DEXes
+- PancakeSwap (Binance Smart Chain) https://dex.bitindi.com/swap/bnb/bni-to-bnb
+
+- Bitindi DEX (Bitindi Chain). https://dex.bitindi.org/#/swap
 
 The best information about the BNI trading volumes and prices on various exchanges can be found on the Coingecko & Coinmarketcap "Markets" page for the token.  
 
