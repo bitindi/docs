@@ -29,16 +29,15 @@ toc: true
 
 ## Token Allocation ![Bitindi!](https://raw.githubusercontent.com/bitindi/bitindi/main/assets/images/bni-token.png "Bitindi Chain")
 
-| Segment    | % |  Total  |  Vesting  | TGE | Date |
-| ----------- | ----------- | ----------- | ----------- |  ----------- |  ----------- |
-| Fairlaunch/Liquidity  | 49% |  24,500,000 | Public Fairlaunch | |  | 
-| Staking Pool  | 20% |  10,000,000 | 5% vested monthly | 5% | 2022.11.15|
-| Exchange Listing | 10% |  5,000,000 | 5% vested monthly | 5% | 2022.11.15|
-| Development | 5% |  2,500,000 | 1% vested monthly | 1% | 2022.11.15|
-| Marketing | 5% |  2,500,000 | 1% vested monthly | 1% | 2022.11.15  |
-| Partnerships | 5% |  2,500,000 | 1% vested monthly | 1% | 2022.12.01|
-| Team | 5% |  2,500,000 | 1% vested monthly | 1% | 2022.12.01 |
-| Giveaway | 1% |  500,000 | 10% vested monthly | 10% | 2022.11.15 |
+| Segment    | % |  Total  |  Vesting  
+| ----------- | ----------- | ----------- | ----------- | 
+| Fairlaunch/Liquidity  | 49% |  24,500,000 | Public Fairlaunch | 
+| Exchange Listing | 30% |  15,000,000 | 5% vested monthly | 
+| Development | 5% |  2,500,000 | 1% vested monthly |
+| Marketing | 5% |  2,500,000 | 1% vested monthly |
+| Partnerships | 5% |  2,500,000 | 1% vested monthly |
+| Team | 5% |  2,500,000 | 1% vested monthly |
+| Giveaway | 1% |  500,000 | 10% vested monthly |
 
 
 ## The New BNI token is the native currency of the Bitindi Network blockchain and platform, just like ETH on Ethereum and BNB on Binance. 
