@@ -27,13 +27,13 @@ Looking for developer tools? Check out the [Developer resources](/docs/developer
    interact with Smart contracts deployed on Bitindi chain.
 
 ### DeFi
- - [Bitindi Swap](https://dex.bitindi.org) is the Pancakeswap v1 based DEX for Bitindi chain tokens.
+ - [Bitindi Swap](https://dex.bitindi.org) is the Pancakeswap v1 based DEX for Bitindi Chain tokens.
 
  ### Staking
  - [Bitindi Staking](https://staking.bitindi.org) is the Validator platform for staking on Bitindi Chain.
 
   ### Bridge
- - [Bitindi Bridge](https://bridge.bitindi.org) is the Ethereum/Binance Chain bridge for native Bitindi chain assets.
+ - [Bitindi Bridge](https://bridge.bitindi.org) is the Ethereum/Binance Chain bridge for native Bitindi Chain assets.
 
 ### NFTs
  - [Marketplace](#) is the first Bitindi chain native NFT marketplace.
