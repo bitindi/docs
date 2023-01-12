@@ -13,8 +13,8 @@ contributors: ["Bitindi Developers"]
 [Bitindiscan](https://bitindiscan.com) is the most advanced, fully open-source block explorer. It was built from
 the ground up for Bitindi chain.
 
-## Bitindi UI Redesign
-Bitindi scan has a new look. It is the first Bitindi project utilizing components from the upcoming [Bitindi  UI kit](/docs/developers/ui_kit/).
+## Bitindi Scan
+Bitindi scan has a new look.[Bitindi Scan](https://bitindiscan.com/).
 
 ![](https://github.com/bitindi/bitindi/blob/main/assets/images/redesign.png?raw=true)
 
