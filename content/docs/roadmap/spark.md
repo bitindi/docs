@@ -1,6 +1,6 @@
 ---
 title: "Spark 2023"
-description: "Bitindi Roadmap 2022"
+description: "Bitindi Roadmap 2023"
 lead: ""
 date: 2022-11-12T15:22:20+01:00
 lastmod: 2022-11-12T15:22:20+01:00
