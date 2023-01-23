@@ -22,8 +22,9 @@ toc: true
 - [x] Mainnet Blockchain [Scan](https://bitindiscan.com/) Launch
 - [x] Token Launchpad [GemPad](https://gempad.app/)
 - [ ] Validators appointment complete
-- [x] Liquidity Locker Launch [GemPad](https://gempad.app/)
-- [ ] Dex Exchange v2 Launch
+- [x] Liquidity Locker Launch [GemPad](https://gempad.app/create-lock)
+- [x] Token Cretor Launch [GemPad](https://gempad.app/create-token)
+- [ ] Dex Exchange V2 Launch
 - [ ] Fund Projects on our Blockchain
 - [x] Cross blockchain Bridge Launch
 - [ ] Perpetual Trades on Dex Exchange
@@ -33,8 +34,8 @@ toc: true
 - [x] Complete developer forum, blog, and FAQ information
 - [ ] Chain ecological infrastructure booms
 - [ ] Innovative open ID
-- [ ] Personalized portal accurately matches users and Dapps
-- [ ] Roadmap v2 Launch
+- [ ] Personalized portal for users and dApp devalopers
+- [ ] Roadmap V2 Launch
 
 
 
