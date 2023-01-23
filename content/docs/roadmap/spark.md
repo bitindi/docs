@@ -27,6 +27,7 @@ toc: true
 - [ ] Fund Projects on our Blockchain
 - [x] Cross blockchain Bridge Launch
 - [ ] Perpetual Trades on Dex Exchange
+- [ ] Limit Order Trades on Dex Exchange
 - [ ] DAO Platform Launch
 - [x] Complete developer tools
 - [x] Complete developer forum, blog, and FAQ information
