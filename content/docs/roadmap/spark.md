@@ -23,7 +23,7 @@ toc: true
 - [x] Token Launchpad [GemPad](https://gempad.app/)
 - [ ] Validators appointment complete
 - [x] Liquidity Locker Launch [GemPad](https://gempad.app/create-lock)
-- [x] Token Cretor Launch [GemPad](https://gempad.app/create-token)
+- [x] Token Creator Launch [GemPad](https://gempad.app/create-token)
 - [ ] Dex Exchange V2 Launch
 - [ ] Fund Projects on our Blockchain
 - [x] Cross blockchain Bridge Launch
