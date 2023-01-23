@@ -30,7 +30,7 @@ toc: true
 - [x] PinkSale Fairlaunch (2022.10.12 15:30 (UTC))
 - [x] Launch on PancakeSwap (2022.10.17 12:30 (UTC))
 - [x] [CMC](https://coinmarketcap.com/currencies/bitindi-chain/) & [CG](https://www.coingecko.com/en/coins/bitindi-chain) Listing
-- [ ] Bitindi Staking
+- [x] Bitindi Staking
 - [ ] Tier 2 CEX Listing
 - [x] Bitindi Testnet Blockchain Launch
 - [x] Bitindi Testnet [RPC](https://docs.bitindi.org/docs/developers/networks/) Launch 
