@@ -20,19 +20,20 @@ toc: true
 - [x] Mainnet Blockchain Launch
 - [x] Bitindi Mainnet [RPC](https://docs.bitindi.org/docs/developers/networks/) Launch
 - [x] Mainnet Blockchain [Scan](https://bitindiscan.com/) Launch
-- [ ] Token Launchpad
+- [x] Token Launchpad [GemPad](https://gempad.app/)
 - [ ] Validators appointment complete
-- [ ] Liquidity Locker Launch
+- [x] Liquidity Locker Launch [GemPad](https://gempad.app/)
 - [ ] Dex Exchange v2 Launch
 - [ ] Fund Projects on our Blockchain
-- [ ] Cross blockchain Bridge Launch
+- [x] Cross blockchain Bridge Launch
 - [ ] Perpetual Trades on Dex Exchange
-- [ ] Roadmap v2 Launch
-- [ ] Complete developer tools
-- [ ] Complete developer forum, blog, and FAQ information
+- [ ] DAO Platform Launch
+- [x] Complete developer tools
+- [x] Complete developer forum, blog, and FAQ information
 - [ ] Chain ecological infrastructure booms
 - [ ] Innovative open ID
 - [ ] Personalized portal accurately matches users and Dapps
+- [ ] Roadmap v2 Launch
 
 
 
