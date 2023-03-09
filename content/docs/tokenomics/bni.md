@@ -24,7 +24,6 @@ toc: true
 | Decimal  | 18       |
 | Network   | BSC   |
 | Total Supply  | 50,000,000      |
-| Transaction fee    | 1% Sell tax <br /> 1% Transfer tax   (BNB Reflections)|
 | Contract | [0x77fc65dedA64f0CCA9e3aEa7b9D8521f4151882e](https://bscscan.com/token/0x77fc65dedA64f0CCA9e3aEa7b9D8521f4151882e)   |
 
 ## Token Allocation ![Bitindi!](https://raw.githubusercontent.com/bitindi/bitindi/main/assets/images/bni-token.png "Bitindi Chain")
