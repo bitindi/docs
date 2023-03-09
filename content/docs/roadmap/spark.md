@@ -17,6 +17,7 @@ toc: true
 ![Bitindi!](https://raw.githubusercontent.com/bitindi/bitindi/main/assets/images/linkd.png "Bitindi Chain")
 
 - [ ] Bitindi's IOS Wallet App Launch
+- [ ] Bitindi's Multichain NFT Platform Launch (15th March 2023)
 - [x] Mainnet Blockchain Launch
 - [x] Bitindi Mainnet [RPC](https://docs.bitindi.org/docs/developers/networks/) Launch
 - [x] Mainnet Blockchain [Scan](https://bitindiscan.com/) Launch
