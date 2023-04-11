@@ -31,7 +31,7 @@ toc: true
 - [x] Launch on PancakeSwap (2022.10.17 12:30 (UTC))
 - [x] [CMC](https://coinmarketcap.com/currencies/bitindi-chain/) & [CG](https://www.coingecko.com/en/coins/bitindi-chain) Listing
 - [x] Bitindi Staking
-- [ ] Tier 2 CEX Listing
+- [x] Tier 2 [CEX](https://www.bitmart.com/trade/en-US?layout=pro&theme=dark&symbol=BNI_USDT) Listing
 - [x] Bitindi Testnet Blockchain Launch
 - [x] Bitindi Testnet [RPC](https://docs.bitindi.org/docs/developers/networks/) Launch 
 - [x] Bitindi Testnet [Scan](https://testnet.bitindiscan.com/) Launch
