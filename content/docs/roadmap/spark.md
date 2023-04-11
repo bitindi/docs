@@ -35,6 +35,12 @@ toc: true
 - [x] Complete developer forum, blog, and FAQ information
 - [ ] Chain ecological infrastructure booms
 - [ ] Innovative open ID
+- [ ] BitindiAI Decentralized Engen
+- [ ] Bitindi NFT Marketplace
+- [ ] Bitindi NFT Tools
+- [ ] Bitindi 3D Smart NFT Collection Launch
+- [ ] Bitindi NFT Staking Launch
+- [ ] Multi blockchain Bridge Launch
 - [ ] Personalized portal for users and dApp devalopers
 - [ ] Roadmap V2 Launch
 
