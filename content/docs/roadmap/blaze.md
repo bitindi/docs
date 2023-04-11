@@ -1,6 +1,6 @@
 ---
-title: "Blaze 2024"
-description: "Bitindi Roadmap 2024"
+title: "Blaze 2025"
+description: "Bitindi Roadmap 2025"
 lead: ""
 date: 2022-11-12T15:22:20+01:00
 lastmod: 2022-11-12T15:22:20+01:00
