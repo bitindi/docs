@@ -30,6 +30,7 @@ toc: true
 - [ ] Perpetual Trades on Dex Exchange
 - [ ] Limit Order Trades on Dex Exchange
 - [ ] DAO Platform Launch
+- [ ] Real World Asset Tokenization (RWA) Platform
 - [x] Complete developer tools [Thirdweb](https://thirdweb.com/bitindi)
 - [x] Complete developer forum, blog, and FAQ information
 - [ ] Chain ecological infrastructure booms
