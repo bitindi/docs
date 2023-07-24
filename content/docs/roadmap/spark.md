@@ -37,9 +37,6 @@ toc: true
 - [ ] Perpetual Trades on Dex Exchange
 - [ ] Limit Order Trades on Dex Exchange
 - [ ] DAO Platform Launch
-- [ ] Real World Asset Tokenization (RWA) Platform
-- [ ] Chain ecological infrastructure booms
-- [ ] Innovative open ID
 - [ ] Bitindi's Multichain NFT Platform Launch
 - [ ] BitindiAI Decentralized Engen
 - [ ] Bitindi NFT Tools
