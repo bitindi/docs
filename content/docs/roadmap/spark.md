@@ -16,7 +16,7 @@ toc: true
 
 ![Bitindi!](https://raw.githubusercontent.com/bitindi/bitindi/main/assets/images/linkd.png "Bitindi Chain")
 
-- [ ] Bitindi's IOS Wallet App Launch
+
 - [x] Mainnet Blockchain Launch
 - [x] Bitindi Mainnet [RPC](https://docs.bitindi.org/docs/developers/networks/) Launch
 - [x] Mainnet Blockchain [Scan](https://bitindiscan.com/) Launch
@@ -24,18 +24,20 @@ toc: true
 - [ ] Validators appointment is complete
 - [x] Liquidity Locker Launch [GemPad](https://gempad.app/create-lock)
 - [x] Token Creator Launch [GemPad](https://gempad.app/create-token)
+- [x] Cross-Blockchain Bridge Launch
+- [x] Complete developer tools [Thirdweb](https://thirdweb.com/bitindi)
+- [x] Complete developer forum, blog, and FAQ information
 - [ ] Payment solution (B-PAY) mobile App Android/IOS 
 - [ ] Merchant integration (BPAY)
-- [ ] Investment integration (BPAY) 
+- [ ] Investment integration (BPAY)
+- [ ] Bitindi's IOS Wallet App Launch
+- [ ] Bitindi's Wallet Subscription Launch
 - [ ] Dex Exchange V2 Launch
 - [ ] Fund Projects on our Blockchain
-- [x] Cross-Blockchain Bridge Launch
 - [ ] Perpetual Trades on Dex Exchange
 - [ ] Limit Order Trades on Dex Exchange
 - [ ] DAO Platform Launch
 - [ ] Real World Asset Tokenization (RWA) Platform
-- [x] Complete developer tools [Thirdweb](https://thirdweb.com/bitindi)
-- [x] Complete developer forum, blog, and FAQ information
 - [ ] Chain ecological infrastructure booms
 - [ ] Innovative open ID
 - [ ] Bitindi's Multichain NFT Platform Launch
