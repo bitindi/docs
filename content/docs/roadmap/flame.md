@@ -21,3 +21,6 @@ toc: true
 - [ ] Cross-chain interoperability protocol
 - [ ] Cross-chain interoperability integration
 - [ ] Cross Blockchain Index
+- [ ] Real World Asset Tokenization (RWA) Platform
+- [ ] Chain ecological infrastructure booms
+- [ ] Innovative open ID
