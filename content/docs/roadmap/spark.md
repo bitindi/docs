@@ -21,7 +21,6 @@ toc: true
 - [x] Bitindi Mainnet [RPC](https://docs.bitindi.org/docs/developers/networks/) Launch
 - [x] Mainnet Blockchain [Scan](https://bitindiscan.com/) Launch
 - [x] Token Launchpad [GemPad](https://gempad.app/)
-- [ ] Validators appointment is complete
 - [x] Liquidity Locker Launch [GemPad](https://gempad.app/create-lock)
 - [x] Token Creator Launch [GemPad](https://gempad.app/create-token)
 - [x] Cross-Blockchain Bridge Launch
@@ -32,6 +31,7 @@ toc: true
 - [ ] Investment integration (BPAY)
 - [ ] Bitindi's IOS Wallet App Launch
 - [ ] Bitindi's Wallet Subscription Launch
+- [ ] Validators appointment is complete
 - [ ] Dex Exchange V2 Launch
 - [ ] Fund Projects on our Blockchain
 - [ ] Perpetual Trades on Dex Exchange
@@ -46,7 +46,7 @@ toc: true
 - [ ] Bitindi 3D Smart NFT Collection Launch
 - [ ] Bitindi NFT Staking Launch
 - [ ] Multi Blockchain Bridge Launch
-- [ ] Personalized portal for users and dApp devalopers
+- [ ] Personalized portal for users and dApp developers
 - [ ] Roadmap V2 Launch
 
 
