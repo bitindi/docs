@@ -26,6 +26,7 @@ toc: true
 - [x] Cross-Blockchain Bridge Launch
 - [x] Complete developer tools [Thirdweb](https://thirdweb.com/bitindi)
 - [x] Complete developer forum, blog, and FAQ information
+- [x] BitindiAI Decentralized Engen
 - [ ] Payment solution (B-PAY) mobile App Android/IOS 
 - [ ] Merchant integration (BPAY)
 - [ ] Investment integration (BPAY)
@@ -38,7 +39,6 @@ toc: true
 - [ ] Limit Order Trades on Dex Exchange
 - [ ] DAO Platform Launch
 - [ ] Bitindi's Multichain NFT Platform Launch
-- [ ] BitindiAI Decentralized Engen
 - [ ] Bitindi NFT Tools
 - [ ] Bitindi 3D Smart NFT Collection Launch
 - [ ] Bitindi NFT Staking Launch
