@@ -18,11 +18,11 @@ toc: true
 *EVM stands for Ethereum Virtual Machine, which simply means that these networks use similar technology as Ethereum. These networks are supported by BitindiWallet by default. Networks that are built on other technologies are not supported (Bitcoin, Solana eco, Atom eco, Move eco…)*
 
 ### What is an RPC?
-RPC, or Remote Procedure Call, is a set of protocols that enable BlockWallet to interact and communicate with a blockchain. It is essential for checking account balances, sending transactions, and interacting with dApps.
+RPC, or Remote Procedure Call, is a set of protocols that enable BitindiWallet to interact and communicate with a blockchain. It is essential for checking account balances, sending transactions, and interacting with dApps.
 
 When you add a custom network to BitindiWallet, you provide the RPC information necessary for the wallet to establish a connection with a specific network. Adding a custom RPC will allow you to manage the assets for that specific blockchain.
 
-*Keep in mind that adding a network on one device does not automatically add it to another device, even if accessing the same account. If you uninstall the BlockWallet extension, you will need to re-add custom networks.*
+*Keep in mind that adding a network on one device does not automatically add it to another device, even if accessing the same account. If you uninstall the BitindiWallet extension, you will need to re-add custom networks.*
 
 ### Add a network to BitindiWallet
 
