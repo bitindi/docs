@@ -30,7 +30,8 @@ To add a custom network, follow these steps:
 
 - From your BitindiWallet dashboard click the gear icon in the top-right corner.
 
-![Add_Custom_RPC_1_0e86160350](https://github.com/bitindi/docs/assets/119077822/b6a1ffcf-781d-4c47-925c-11e4cf656c4e)
+![260317698-b6a1ffcf-781d-4c47-925c-11e4cf656c4e](https://github.com/bitindi/docs/assets/119077822/88c281e5-1dee-418b-af51-7d11d2a1bacf)
+
 
 - Select Networks.
 
