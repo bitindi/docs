@@ -1,6 +1,6 @@
 ---
-title: "Bitindi Wallet supports EVM compatible wallets"
-description: "Bitindi Wallet supports EVM compatible wallets"
+title: "What is Phishing Protection?"
+description: "What is Phishing Protection?"
 lead: ""
 date: 2022-10-06T08:48:57+00:00
 lastmod: 2022-10-06T08:48:57+00:00
