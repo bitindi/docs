@@ -33,4 +33,25 @@ If you ever attempt to interact with your BitindiWallet and the anti-phishing ar
 
 ![Phishing_Protection_2_fc0622e9ee](https://github.com/bitindi/docs/assets/119077822/138b38d8-bf79-4e38-b0a7-3eeecf3d155c)
 
+*2-Click Preferences in the Settings menu.*
+
+![Phishing_Protection_3_c454c1b7b5](https://github.com/bitindi/docs/assets/119077822/06ac0448-0891-47e2-a2d5-834a5d0d5df6)
+
+*3-Click Phishing Protection in the preferences menu.*
+
+![Phishing_Protection_4_187ac35c10](https://github.com/bitindi/docs/assets/119077822/43317142-fe52-46f7-bc2d-8530df0d2481)
+
+*4-Toggle the phishing protection feature ON/OFF or regenerate a new image as desired.*
+
+![Phishing_Protection_5_95ffd10b51](https://github.com/bitindi/docs/assets/119077822/3044c332-8a66-4842-a2cd-b1ca05e8e440)
+
+## Key Points to Remember:
+- Activate the phishing protection feature in your wallet settings for enhanced security.
+- Memorize your unique anti-phishing art and ensure it is displayed when entering your password.
+- Do not share your anti-phishing art with anyone or post it online.
+- Do not interact with BlockWallet if your anti-phishing art is not displayed.
+
+
+
+
 
