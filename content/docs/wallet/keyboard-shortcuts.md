@@ -13,7 +13,7 @@ weight: 120
 toc: true
 ---
 
-## Effortlessly navigate through BitindiWallet using keyboard shortcuts and execute actions on specific screens with simple key combinations to enhance your BlockWallet experience.
+## Effortlessly navigate through BitindiWallet using keyboard shortcuts and execute actions on specific screens with simple key combinations to enhance your BitindiWallet experience.
 
 ### How do keyboard shortcuts work?
 
@@ -21,7 +21,7 @@ Keyboard shortcuts are switched on by default.
 
 You can turn them off and back on in Settings - Preferences - Keyboard Shortcuts.
 
-When turned on, you can use a combination of keys to speed up the process when using your BlockWallet account (see full list below).
+When turned on, you can use a combination of keys to speed up the process when using your BitindiWallet account (see full list below).
 
 ## Quickly turn Keyboard Shortcuts ON/OFF
 
@@ -31,7 +31,7 @@ If Keyboard shortcuts are OFF and you press this combination, you will get easy 
 
 If Keyboard Shortcuts are ON and you press this combination, you will see all the relevant shortcuts for the current screen.
 
-## Opening the BlockWallet Extension
+## Opening the BitindiWallet Extension
 
 If you want to open your BitindiWallet extension, you can use the combination ALT/OPT+O whenever you are browsing, and BitindiWallet will pop up.
 
