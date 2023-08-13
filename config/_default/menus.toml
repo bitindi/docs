@@ -4,7 +4,7 @@
   identifier = "users"
   url = "/docs/users/"
 
-  [docs]]
+ [[docs]]
   name = "Bitindi Wallet"
   weight = 20
   identifier = "wallet"
