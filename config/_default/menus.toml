@@ -4,33 +4,39 @@
   identifier = "users"
   url = "/docs/users/"
 
+  [docs]]
+  name = "Bitindi Wallet"
+  weight = 20
+  identifier = "wallet"
+  url = "/docs/wallet/"
+
 [[docs]]
   name = "Developer Guide"
-  weight = 20
+  weight = 30
   identifier = "developers"
   url = "/docs/developers/"
 
 [[docs]]
   name = "Governance"
-  weight = 30
+  weight = 40
   identifier = "governance"
   url = "/docs/governance/"
 
   [[docs]]
   name = "Roadmap"
-  weight = 30
+  weight = 50
   identifier = "roadmap"
   url = "/docs/roadmap/"
 
    [[docs]]
   name = "Tokenomics"
-  weight = 30
+  weight = 60
   identifier = "tokenomics"
   url = "/docs/tokenomics/"
 
 [[docs]]
   name = "Help"
-  weight = 60
+  weight = 70
   identifier = "help"
   url = "/docs/help/"
 
