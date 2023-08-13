@@ -24,7 +24,8 @@ To buy crypto and receive it directly into your BlockWallet account, follow thes
 
 - Click Buy on the home screen.
 
-![On_Ramp_1_e925d6e82f](https://github.com/bitindi/docs/assets/119077822/8c315b20-5b3e-488e-997d-982f40ca1bb7)
+![260317371-74c1fb78-7c38-4ecc-b16f-0968ec5c16c1](https://github.com/bitindi/docs/assets/119077822/7be5322e-24e5-4f7d-9a05-138b2b2e5f9e)
+
 
 - Select your local fiat currency and the cryptocurrency you want to purchase.
 
