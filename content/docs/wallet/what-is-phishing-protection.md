@@ -24,7 +24,8 @@ If you ever attempt to interact with your BitindiWallet and the anti-phishing ar
 
 *1- Click the settings icon in the top right corner of your wallet's main screen.*
 
-![Phishing_Protection_2_fc0622e9ee](https://github.com/bitindi/docs/assets/119077822/138b38d8-bf79-4e38-b0a7-3eeecf3d155c)
+![260317371-74c1fb78-7c38-4ecc-b16f-0968ec5c16c1](https://github.com/bitindi/docs/assets/119077822/c03103aa-040b-4bf4-abea-8911b1cf026b)
+
 
 *2-Click Preferences in the Settings menu.*
 
