@@ -1,5 +1,5 @@
 ---
-title: "Bitindi Wallet"
+title: "Bitindi Wallet supports EVM compatible wallets."
 description: "Bitindi Wallet supports EVM compatible wallets."
 lead: ""
 date: 2022-10-06T08:48:57+00:00
