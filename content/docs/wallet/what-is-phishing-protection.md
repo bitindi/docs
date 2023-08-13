@@ -43,7 +43,7 @@ If you ever attempt to interact with your BitindiWallet and the anti-phishing ar
 - Activate the phishing protection feature in your wallet settings for enhanced security.
 - Memorize your unique anti-phishing art and ensure it is displayed when entering your password.
 - Do not share your anti-phishing art with anyone or post it online.
-- Do not interact with BlockWallet if your anti-phishing art is not displayed.
+- Do not interact with BitindiWallet if your anti-phishing art is not displayed.
 
 
 
