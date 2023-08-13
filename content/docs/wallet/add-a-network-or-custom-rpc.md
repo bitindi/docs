@@ -81,7 +81,7 @@ There may be instances where you need to edit network details.
 
 Adding custom networks comes with inherent risks, as not all networks can be trusted. Follow these best practices when adding custom networks:
 
-- Due diligence: BlockWallet does not verify non-recognized networks, therefore ensure that you trust the network before adding it to your wallet.
+- Due diligence: BitindiWallet does not verify non-recognized networks, therefore ensure that you trust the network before adding it to your wallet.
 - Use established bridges or portals: When bridging tokens (moving them from one network to another), ensure you trust the network operator and the receiving address. Sending crypto assets directly from one network or chain to another may result in permanent, irreversible asset loss.
 - Verify custom network information: Always double-check the custom network information before adding it to BitindiWallet.
 
