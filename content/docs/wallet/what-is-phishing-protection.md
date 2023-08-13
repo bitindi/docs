@@ -26,3 +26,11 @@ We strongly recommend enable this feature and keep your unique art private.
 Your exclusive anti-phishing art appears on the "Login" and "Import/Export Account" pages.
 
 If you ever attempt to interact with your BitindiWallet and the anti-phishing art is not displayed, it is likely that you are being targeted by a phishing attempt. In such cases, do not use the wallet and contact our community managers on [Telegram](https://t.me/bitindi) for assistance.
+
+### Activating and Managing the Phishing Protection Feature
+
+*1- Click the settings icon in the top right corner of your wallet's main screen.*
+
+![Phishing_Protection_2_fc0622e9ee](https://github.com/bitindi/docs/assets/119077822/138b38d8-bf79-4e38-b0a7-3eeecf3d155c)
+
+
