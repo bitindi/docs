@@ -15,7 +15,8 @@ toc: true
 
 ## You can find a quick snapshot of your cumulative net worth directly on the BitindiWallet home screen. This value is specific to the account, and chain that is currently selected.
 
-![Net_Worth_13705e4caf](https://github.com/bitindi/docs/assets/119077822/94b78fc2-fae2-45d7-8a78-07fd0820013f)
+![260317371-74c1fb78-7c38-4ecc-b16f-0968ec5c16c1](https://github.com/bitindi/docs/assets/119077822/8557bd55-c1b5-4201-bbdc-c21c1fa8a66f)
+
 
 ### How does it work?
 Net Worth is simply the sum of all assets in your wallet denominated by the currency selected in your wallet. The value will be displayed in USD by default, with the option to change the currency by navigating to *Preferences > Locale Configuration*.
