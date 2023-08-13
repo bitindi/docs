@@ -28,7 +28,7 @@ To buy crypto and receive it directly into your BlockWallet account, follow thes
 
 - Select your local fiat currency and the cryptocurrency you want to purchase.
 
-![On_Ramp_2_64aa4df3ad](https://github.com/bitindi/docs/assets/119077822/e98c0f29-8c10-45ae-bec2-999203e501f1)
+![On_Ramp_2_64aa4df3ad](https://github.com/bitindi/docs/assets/119077822/7f565633-2f22-4c66-8564-be2be302f3b9)
 
 - Read and agree to the terms for buying crypto via Onramper, then click Buy.
 
