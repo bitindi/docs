@@ -43,7 +43,8 @@ BitindiWallet makes it easy to do directly from your wallet:
 
 - Open Settings by clicking the gear icon in the top right corner of your wallet.
 
-![Revoke_Allowance_1_40c05bbd09](https://github.com/bitindi/docs/assets/119077822/604a73cc-1556-40e6-9be7-6003ca5798bb)
+![260317371-74c1fb78-7c38-4ecc-b16f-0968ec5c16c1](https://github.com/bitindi/docs/assets/119077822/1a3da6d8-93ca-4a6a-8c14-51989e2195ae)
+
 
 - Click Account.
 
