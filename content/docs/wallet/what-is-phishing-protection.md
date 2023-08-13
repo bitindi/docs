@@ -13,14 +13,7 @@ weight: 120
 toc: true
 ---
 
-**NOTE: Check compatibility before using wallet, Ledger is not supported.**
-
-## Bitindi Wallet
-BitindiWallet's phishing protection feature provides an additional layer of security by generating a unique piece of art for your wallet.
-
-This art is displayed in sensitive areas where you need to use your password, making it more difficult for scammers to execute phishing scams.
-
-We strongly recommend enable this feature and keep your unique art private.
+## Bitindiwallet's phishing protection feature provides an additional layer of security by generating a unique piece of art for your wallet. This art is displayed in sensitive areas where you need to use your password, making it more difficult for scammers to execute phishing scams. We strongly recommend enable this feature and keep your unique art private.
 
 ### How does it work?
 Your exclusive anti-phishing art appears on the "Login" and "Import/Export Account" pages.
