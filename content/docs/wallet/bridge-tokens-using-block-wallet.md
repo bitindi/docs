@@ -20,7 +20,8 @@ toc: true
 - Open BitindiWallet and select the network from which you want to bridge tokens.
 - Click on the Bridge icon.
 
-![Bridges_1_883eb5df5f](https://github.com/bitindi/docs/assets/119077822/74c1fb78-7c38-4ecc-b16f-0968ec5c16c1)
+![260317371-74c1fb78-7c38-4ecc-b16f-0968ec5c16c1](https://github.com/bitindi/docs/assets/119077822/2b0252b6-b064-4df7-a438-a9456cccf1a4)
+
 
 - Select the token you want to bridge.
 
