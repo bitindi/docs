@@ -20,7 +20,7 @@ Onramper is a convenient service integrated with BitindiWallet that allows users
 
 ### Buy crypto in a few easy steps
 
-To buy crypto and receive it directly into your BlockWallet account, follow these easy steps:
+To buy crypto and receive it directly into your BitindiWallet account, follow these easy steps:
 
 - Click Buy on the home screen.
 
