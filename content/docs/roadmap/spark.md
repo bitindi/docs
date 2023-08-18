@@ -26,8 +26,9 @@ toc: true
 - [x] Cross-Blockchain Bridge Launch
 - [x] Complete developer tools [Thirdweb](https://thirdweb.com/bitindi)
 - [x] Complete developer forum, blog, and FAQ information
-- [x] BitindiAI Decentralized Engen
-- [ ] Bitindi's Web3 Wallet Extension Launch (20th, Aug 2023)
+- [x] BitindiAI Decentralized Engen [Bitindi AI](https://bitindi.ai)
+- [ ] Bitindi's Web3 Wallet Extension Launch (20th, August 2023)
+- [ ] Bitindi's Web3 Wallet Extension Custom EVM Network Support (30th, August 2023)
 - [ ] Payment solution (B-PAY) mobile App Android/IOS 
 - [ ] Merchant integration (BPAY)
 - [ ] Investment integration (BPAY)
