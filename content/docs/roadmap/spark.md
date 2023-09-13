@@ -28,7 +28,7 @@ toc: true
 - [x] Complete developer forum, blog, and FAQ information
 - [x] BitindiAI Decentralized Engen [Bitindi AI](https://bitindi.ai)
 - [x] Bitindi's Web3 Wallet Extension [Download Bitindi Wallet for Firefox](https://addons.mozilla.org/en-US/firefox/addon/bitindi-wallet/)
-- [ ] Bitindi's Web3 Wallet Extension Custom EVM Network Support (30th, August 2023)
+- [ ] Bitindi's Web3 Wallet Extension Custom EVM Network Support [(30th, August 2023)](https://docs.bitindi.com/docs/wallet/rpc)
 - [ ] Payment solution (B-PAY) mobile App Android/IOS 
 - [ ] Merchant integration (BPAY)
 - [ ] Investment integration (BPAY)
