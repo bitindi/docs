@@ -93,5 +93,27 @@ Setup custom Polygon Protect RPC in Metamask
 - Symbol: MATIC
 - Block Explorer URL: https://polygonscan.com/
 
+ ```js
+async function addMaticNetwork() {
+  try {
+    const result = await window.ethereum.request({
+      method: "wallet_addEthereumChain",
+      params: [{
+        chainId: "0x89",
+        rpcUrls: ["https://polygon-rpc.com/"],
+        chainName: "Matic Mainnet",
+        nativeCurrency: {
+          name: "MATIC",
+          symbol: "MATIC",
+          decimals: 18
+        },
+        blockExplorerUrls: ["https://polygonscan.com/"]
+      }]
+    });
+  } catch (error){
+    console.log(error)
+  }
+    ```
+
 
 
