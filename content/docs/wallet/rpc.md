@@ -31,16 +31,20 @@ ETH Protect securely sends your transaction directly to block proposers using ou
 Setup custom ETH Protect RPC in Metamask
 1. Open Metamask and click on "Settings"
 2. Click on "Networks", and then click on "Add Network" on the Networks menu.
+   
 ![image](https://github.com/bitindi/docs/assets/119077822/430da26f-7f1a-4162-a21d-f9381ebb5360)
 
 3. Select "Custom Networks"
+   
 ![image](https://github.com/bitindi/docs/assets/119077822/0004266f-a4ab-44aa-9194-e599dd01bba0)
-Add custom ETH Protect RPC to your Metamask
-Network Name:  ETH Protect
-RPC URL: https://ethpro.bitindi.org
-Chain ID: 1
-Symbol: ETH
-Block Explorer URL (optional): https://etherscan.io
+
+4. Add custom ETH Protect RPC to your Metamask
+- Network Name:  ETH Protect
+- RPC URL: https://ethpro.bitindi.org
+- Chain ID: 1
+- Symbol: ETH
+- Block Explorer URL (optional): https://etherscan.io
+
 ![spaces_-MEhQI8zckriC1VzHORZ_uploads_ifFMaCkPqazArnGHACqk_Screen Shot 2023-05-04 at 3](https://github.com/bitindi/docs/assets/119077822/fbd3f3a0-4f4c-4b76-9dd5-77918c2929d2)
 
 
@@ -68,11 +72,11 @@ Setup custom BSC Protect RPC in Metamask
 2. Click on "Networks", and then click on "Add Network" on the Networks menu.
 3. Select "Custom Networks"
 4. Add custom BSC Protect RPC to your Metamask
-Network Name:  BSC Protect
-RPC URL: https://bsc.bitindi.org
-Chain ID: 56
-Symbol: BNB
-Block Explorer URL (optional): https://bscscan.com
+- Network Name:  BSC Protect
+- RPC URL: https://bsc.bitindi.org
+- Chain ID: 56
+- Symbol: BNB
+- Block Explorer URL (optional): https://bscscan.com
 
 # Polygon Protect RPC
 
@@ -83,11 +87,11 @@ Setup custom Polygon Protect RPC in Metamask
 2. Click on "Networks", and then click on "Add Network" on the Networks menu.
 3. Select "Custom Networks"
 4. Add custom Polygon Protect RPC to your Metamask
-Network Name:  Polygon Protect
-RPC URL: https://polygon.bitindi.org
-Chain ID: 137
-Symbol: MATIC
-Block Explorer URL: https://polygonscan.com/
+- Network Name:  Polygon Protect
+- RPC URL: https://polygon.bitindi.org
+- Chain ID: 137
+- Symbol: MATIC
+- Block Explorer URL: https://polygonscan.com/
 
 
 
