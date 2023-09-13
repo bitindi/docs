@@ -52,11 +52,11 @@ Setup custom ETH Gas Protect RPC in Metamask
 2. Click on "Networks", and then click on "Add Network" on the Networks menu.
 3. Select "Custom Networks"
 4. Add custom ETH Gas Protect RPC to your Metamask
-Network Name:  ETH Gas Protect
-RPC URL: https://eth.bitindi.org
-Chain ID: 1
-Symbol: ETH
-Block Explorer URL (optional): https://etherscan.io
+- Network Name:  ETH Gas Protect
+- RPC URL: https://eth.bitindi.org
+- Chain ID: 1
+- Symbol: ETH
+- Block Explorer URL (optional): https://etherscan.io
 
 # BSC Protect RPC
 
