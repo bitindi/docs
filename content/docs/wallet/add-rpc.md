@@ -1,16 +1,7 @@
 ---
 title: "Add  RPC"
 description: "Add a Network or Custom RPC"
-lead: ""
-date: 2022-10-06T08:48:57+00:00
-lastmod: 2022-10-06T08:48:57+00:00
-draft: false
-images: []
-menu:
-  docs:
-    parent: "wallet"
-weight: 120
-toc: true
+
 ---
 
 
