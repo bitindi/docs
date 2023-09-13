@@ -40,7 +40,7 @@ Setup custom ETH Protect RPC in Metamask
 
 4. Add custom ETH Protect RPC to your Metamask
 - Network Name:  ETH Protect
-- RPC URL: https://ethpro.bitindi.org
+- RPC URL: [https://ethpro.bitindi.org](https://ethpro.bitindi.org) 
 - Chain ID: 1
 - Symbol: ETH
 - Block Explorer URL (optional): https://etherscan.io
@@ -57,7 +57,7 @@ Setup custom ETH Gas Protect RPC in Metamask
 3. Select "Custom Networks"
 4. Add custom ETH Gas Protect RPC to your Metamask
 - Network Name:  ETH Gas Protect
-- RPC URL: https://eth.bitindi.org
+- RPC URL: [https://eth.bitindi.org](https://eth.bitindi.org
 - Chain ID: 1
 - Symbol: ETH
 - Block Explorer URL (optional): https://etherscan.io
@@ -73,7 +73,7 @@ Setup custom BSC Protect RPC in Metamask
 3. Select "Custom Networks"
 4. Add custom BSC Protect RPC to your Metamask
 - Network Name:  BSC Protect
-- RPC URL: https://bsc.bitindi.org
+- RPC URL: [https://bsc.bitindi.org](https://bsc.bitindi.org)
 - Chain ID: 56
 - Symbol: BNB
 - Block Explorer URL (optional): https://bscscan.com
@@ -88,7 +88,7 @@ Setup custom Polygon Protect RPC in Metamask
 3. Select "Custom Networks"
 4. Add custom Polygon Protect RPC to your Metamask
 - Network Name:  Polygon Protect
-- RPC URL: https://polygon.bitindi.org
+- RPC URL: [https://polygon.bitindi.org](https://bsc.bitindi.org)
 - Chain ID: 137
 - Symbol: MATIC
 - Block Explorer URL: https://polygonscan.com/
