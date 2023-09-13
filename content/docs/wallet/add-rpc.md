@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Adding blockchain to Metamask</title>
-  </head>
-  <body>
     <script>
       // FUSE blockchain details
       const chainId = '0x7a';
@@ -42,7 +33,3 @@
         window.location.reload();
       };
     </script>
-    <!-- The button  -->
-    <button onClick="addNetwork()">Add Fuse</button>
-  </body>
-</html>
