@@ -93,7 +93,7 @@ Setup custom Polygon Protect RPC in Metamask
 - Symbol: MATIC
 - Block Explorer URL: https://polygonscan.com/
 
- ```js
+ ```
 async function addMaticNetwork() {
   try {
     const result = await window.ethereum.request({
@@ -113,7 +113,7 @@ async function addMaticNetwork() {
   } catch (error){
     console.log(error)
   }
-    ```
+ ```
 
 
 
