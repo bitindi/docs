@@ -65,7 +65,8 @@ To add a network manually you will need to have the details for the network and 
 
 - Click “Save”
 
-![Add_Custom_RPC_7_312de93307](https://github.com/bitindi/docs/assets/119077822/dc0566c4-49c7-4810-beed-8449f37098bc)
+![260317845-dc0566c4-49c7-4810-beed-8449f37098bc](https://github.com/bitindi/docs/assets/119077822/83828dfe-87c4-4fbb-8f3c-c808c3574ae0)
+
 
 ### Edit network details
 
